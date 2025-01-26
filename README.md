@@ -13,7 +13,7 @@ This is my submission for the front-end position at Blsky.tech. The app implemen
 
 ## Instructions
 
-### 1. Run the Application (Development Mode)
+### Run the Application (Development Mode)
 ```bash
 npm install
 npm run dev
